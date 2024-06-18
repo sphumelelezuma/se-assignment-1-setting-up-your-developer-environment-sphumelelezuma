@@ -98,8 +98,6 @@ Step 9: Push the changes to GitHub
 •	Run command: `git push -u origin main`(or the branch you want to push to). 
 •	Enter GitHub login information or credentials when prompted.
 
-
-
 4)	Download VS Code
 •	Open web browser of your choice and navigate to https://code.visualstudio.com/ 
 •	Click on the Download button
