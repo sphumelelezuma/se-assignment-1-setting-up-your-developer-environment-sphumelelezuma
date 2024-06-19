@@ -207,7 +207,7 @@ Django app, should display running.
 This is as far I have gone with the project.
 
 GITHUB repository containing a sample project:
-My first Ecommerce project with Django: https://github.com/sphumelelezuma/Ecommerce-App.git 
+My first Ecommerce project with Django: https://github.com/sphumelelezuma/Ecommerce.git
 
 
 Reflection on the challenges faced
